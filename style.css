@@ -208,9 +208,7 @@ html, body {
 }
 
 @media (max-width: 480px) {
-   #main{
-    overflow: hidden;
-   }
+
    
     #mp {
         width: 95vw;
