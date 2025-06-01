@@ -214,7 +214,7 @@ html, body {
    
     #mp {
         width: 95vw;
-        height: 80vh;
+        height: auto;
     }
 
     #header i {
@@ -225,7 +225,6 @@ html, body {
         width: 150px;
         height: 150px;
     }
-
 
     .songs img {
         height: 50px;
