@@ -20,7 +20,7 @@ html, body {
     align-items: center;
     justify-content: center;
     padding: 1rem;
-   background-image: linear-gradient(135deg, rgb(229, 259, 249) 10%, rgb(259, 239, 259) 100%);
+   background-image: linear-gradient(135deg, #feada6 10%, #f5efef 100%);
 }
 
 #mp {
