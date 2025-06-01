@@ -1,0 +1,2 @@
+# Music-player
+🎵 Music Player Web App A sleek and responsive music player built using HTML, CSS, and JavaScript. It allows users to play, pause, skip tracks, and control volume with a user-friendly interface.  🔧 Features Play/pause & next/previous track controls  Track progress bar with seek functionality  Volume control  Dynamic song info display (title, artist, album art)  Responsive design for all screen sizes  🚀 Technologies Used HTML5  CSS3   JavaScript
